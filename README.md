@@ -244,6 +244,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /> | `https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white`
 <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" /> | `https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white`
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white`
+<img src="https://img.shields.io/badge/salesforce-0080FF?style=for-the-badge&logo=salesforce&logoColor=white" /> | `https://img.shields.io/badge/salesforce-0080FF?style=for-the-badge&logo=salesforce&logoColor=white`
 
 
 ## 🌐 Web Browsers [🔝](#welcome-badges-4-readmemd-profile)
@@ -311,6 +312,8 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white`
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`
+<img src="https://img.shields.io/badge/Microsoft%20Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Microsoft%20Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white`
+<img src="https://img.shields.io/badge/Chrome%20Store-414141?style=for-the-badge&logo=Google%20Chrome&logoColor=white" /> | `https://img.shields.io/badge/Chrome%20Store-414141?style=for-the-badge&logo=Google%20Chrome&logoColor=white`
 
 ## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
